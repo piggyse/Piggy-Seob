@@ -2,7 +2,7 @@
 
 
 ### About me 🐷
-I’m currently learning iOS  🌱📱👨🏻‍💻   
+I’m a juinor iOS Developer
 
 </a> <a href="https://seob-p.tistory.com">
 <img src="https://img.shields.io/badge/T-Story-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"> 
